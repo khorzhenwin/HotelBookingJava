@@ -1,2 +1,2 @@
 # HotelBookingJava
-tickle my daddy feet
+hotel booking system with very bad architecture
